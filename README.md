@@ -16,6 +16,8 @@ The dataset was then cleaned to ensure consistency, eliminate any errors, and ha
 
 ## Dashboard Components
 
+![Dashboard](./Dashboard.png)
+
 The Coffee Sales Performance Dashboard consists of several key components:
 
 - Line Chart of Total Sales Over Time: This visualization shows how total coffee sales have fluctuated over a specified period. Users can filter the data by order date, coffee roast type, customer loyalty status, and product weight to drill down into specific trends.
